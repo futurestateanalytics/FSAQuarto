@@ -6,13 +6,13 @@ format: FSAQuarto-pdf
 
 ## 2024 Services Offered
 
-## Contact: Brendan Graham | 484-883-9211 | brendan@futurestateanalytics.io
+#### Contact: Brendan Graham | 484-883-9211 | brendan@futurestateanalytics.io
 
 1.  **Foundational Analytics Package**:
 
     -   Services: Data analysis, visualization, and basic insights.
 
-    -   Pricing: Starting at \$2,000 per project for small businesses, with additional fees based on data volume and complexity.
+    -   Pricing: Starting at $800 per project, with additional fees based on data volume and complexity.
 
     -   Deliverables
 
@@ -26,7 +26,7 @@ format: FSAQuarto-pdf
 
     -   Services: Custom dashboard development and deep-dive analysis
 
-    -   Pricing: Started at \$1,500 for dashboard development, \$2000 for analytics
+    -   Pricing: Starting at $1,000 for dashboard development, $1,2000 for deep-dive analyses
 
     -   Deliverables
 
@@ -50,6 +50,6 @@ format: FSAQuarto-pdf
 
         -   Visualization of results in an interactive dashboard with report findings
         
-### Timelines
+### Project Timeline
 
 Timelines are variable depending on the type of work, complexity of underlying data and analysis deliverable.
