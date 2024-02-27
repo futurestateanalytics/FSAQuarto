@@ -6,7 +6,7 @@ format: FSAQuarto-pdf
 
 ## 2024 Services Offered
 
-#### Contact: Brendan Graham | 484-883-9211 | brendan@futurestateanalytics.io
+#### Contact: Brendan Graham | 484-883-9211 | brendan@futurestateanalytics.io 
 
 1.  **Foundational Analytics Package**:
 
