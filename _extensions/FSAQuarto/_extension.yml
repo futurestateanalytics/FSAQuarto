@@ -20,7 +20,7 @@ contributes:
       margin:
         x: 2cm
         y: 2cm
-      font-paths: fonts
+      font-paths: IBMPlexMono
       typst-logo:
         path: "logo.png"
       template-partials:

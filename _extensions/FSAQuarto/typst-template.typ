@@ -26,7 +26,7 @@
   )
 
   // Set the body font.
-  set text(10pt, font: "IBMPlexSans")
+  set text(10pt, font: "IBMPlexMono")
 
   // Configure headings.
   show heading.where(level: 1): set block(below: 0.8em)
