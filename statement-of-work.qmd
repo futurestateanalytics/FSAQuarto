@@ -3,13 +3,13 @@ format: FSAQuarto-pdf
 ---
 # Statement of Work
 
-#### By: Future State Analytics
+### By: Future State Analytics
 
-#### For:
+### For:
 
-#### Date:
+### Date:
 
-#### SOW: #000
+### SOW: #000
 
 `r shiny::hr()`
 

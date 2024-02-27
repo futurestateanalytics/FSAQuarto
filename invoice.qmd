@@ -4,13 +4,13 @@ format: FSAQuarto-pdf
 
 # Invoice
 
-### From: Future State Analytics
+## From: Future State Analytics
 
-#### For:
+### For:
 
-#### Date:
+### Date:
 
-#### Invoice: #000
+### Invoice: #000
 
 | Task | Description | Hours | Rate  | Total |
 |:-----|:------------|:------|:------|:------|
@@ -25,5 +25,4 @@ format: FSAQuarto-pdf
 |      |             |       |       |       |
 |      |             |       |       |       |
 
-### Total: \$300
-
+## Total: \$300
