@@ -4,7 +4,7 @@
   title: "FSAQuarto",
 
   // Logo in top right corner.
-  typst-logo: none,
+  typst-logo: logo.png,
 
   // The document content.
   body
